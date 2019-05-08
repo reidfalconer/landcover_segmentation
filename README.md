@@ -1,8 +1,8 @@
 # Land Cover Segmentation
 
-Aim: Automatic categorization and segmentation of land cover are of great importance for sustainable development, autonomous agriculture, and urban planning. This problem is defined as a multi-class segmentation task to detect areas of urban, agriculture, rangeland, forest, water, barren, and unknown.
+Aim: Automatic categorization and segmentation of land cover are of great importance for sustainable development, autonomous agriculture, and urban planning. This problem is defined as a multi-class segmentation task to detect areas of urban, agriculture, rangeland, forest, water, barren, and unknown (see the [DEEPGLOBE - CVPR18](http://deepglobe.org/challenge.html) challenge)
 
-Data: high-resolution satellite image datasets (courtesy of DigitalGlobe)
+Data: high-resolution satellite image datasets (courtesy of [DigitalGlobe](http://deepglobe.org/challenge.html))
 - The training data for Land Cover Challenge contains 803 satellite imagery in RGB, size 2448x2448.
 -  The imagery has 50cm pixel resolution, collected by DigitalGlobe's satellite.
 
